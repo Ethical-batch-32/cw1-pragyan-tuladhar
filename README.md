@@ -5,4 +5,4 @@ CW1: A blogging website that allows users to create accounts as a author or a re
 
 
 
-Video Link:
+Video Link: https://youtu.be/17lyDGQ3md4
